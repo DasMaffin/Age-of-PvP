@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2a011d1b0ab21e449d950e8238861c8, type: 3}
+  m_Name: PrimitiveMelee
+  m_EditorClassIdentifier: 
+  unit:
+    unitName: Club man
+    unitDescription: 
+    unitCost: 15
+    unitHealth: 140
+    unitDamage: 35
+    moveSpeed: 3.3
+    attackCooldown: 1.5
+    unitRange: 0
+    age: 0
+  unitImage: {fileID: 0}
+  unitPrefab: {fileID: 7799295084922072233, guid: 474a57f47b5cdaf4a8865ef353335095, type: 3}
